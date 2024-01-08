@@ -1,0 +1,14 @@
+{
+  "originalUrl": "about:srcdoc",
+  "indexFilename": "index.html",
+  "resources": {
+    "fonts/0": "https://use.typekit.net/pf/be/ftnk/n5/l?subset_id=1&fvd=n5&ec_token=O1o6kB9jyB05i20QvhYz5KZqtmKyf4o2ZXT6V6rDk%2FMAPY4hr6YR38gkKZcJDBY1",
+    "fonts/3": "https://use.typekit.net/pf/be/ftnk/n4/l?subset_id=1&fvd=n4&ec_token=O1o6kB9jyB05i20QvhYz5KZqtmKyf4o2ZXT6V6rDk%2FMAPY4hr6YR38gkKZcJDBY1",
+    "fonts/6": "https://use.typekit.net/pf/be/ftnk/n7/l?subset_id=1&fvd=n7&ec_token=O1o6kB9jyB05i20QvhYz5KZqtmKyf4o2ZXT6V6rDk%2FMAPY4hr6YR38gkKZcJDBY1",
+    "fonts/9": "https://use.typekit.net/pf/be/ftnk/i5/l?subset_id=1&fvd=i5&ec_token=O1o6kB9jyB05i20QvhYz5KZqtmKyf4o2ZXT6V6rDk%2FMAPY4hr6YR38gkKZcJDBY1",
+    "images/12.png": "https://cdn.myportfolio.com/209986eb-fb83-4059-8740-ecb1d36ae38f/09a91e65-a37b-4eb0-acab-674c72374084_rwc_0x0x175x74x4096.png?h=52c8c2d4177799ad89b55a855d02a72a",
+    "images/13.jpg": "https://cdn.myportfolio.com/209986eb-fb83-4059-8740-ecb1d36ae38f/bb702096-20ff-4501-b830-1171f7c7d759_rwc_0x0x1277x720x1280.jpeg?h=3cd14da6ce51589bf282515a0cb6e07d",
+    "images/14.png": "https://cdn.myportfolio.com/209986eb-fb83-4059-8740-ecb1d36ae38f/6bbf39b8-5ae6-441f-b071-765479de771c_rwc_0x5x1242x700x1242.png?h=7891e032958a5b84659dd3964d110cf9",
+    "frames/0/": "https://xd.adobe.com/embed/ee7f4637-5419-4dd0-91b6-4c0d1c311fdc-bb2c/?fullscreen"
+  }
+}
